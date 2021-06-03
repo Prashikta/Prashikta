@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prashikta
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Django with python
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 💞️ I’m looking to collaborate with Data Science Projects
 - 📫 How to reach me guptaprashikta99@gmail.com
 
 <!---
